@@ -1,0 +1,155 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="MyCustomTheme" parent="@android:style/Theme.Panel">
+        <item name="android:windowAnimationStyle">@style/MyAnimation.Window</item>
+    </style>
+
+    <style name="MyAnimation.Window" parent="@android:style/Animation.Activity">
+        <item name="android:windowEnterAnimation">@anim/anim_in</item>
+        <item name="android:windowExitAnimation">@anim/anim_out</item>
+    </style>
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light">
+        <item name="android:radius">10dp</item>
+        <item name="android:paddingLeft">2dp</item>
+        <item name="android:paddingRight">2dp</item>
+    </style>
+
+    <!--      COLOR SCHEMES FOR THE THEMES        -->
+
+    <style name="SunriseRed" parent="AppTheme.NoActionBar">
+        <item name="colorPrimary">#9c0623</item>
+        <item name="colorPrimaryDark">#81071e</item>
+        <item name="colorAccent">#ce0125</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="HomeBack">#030913</item>
+
+        <item name="android:colorBackground">#232222</item>
+        <item name="NavTextColor">#ffffff</item>
+        <item name="android:listDivider">@color/SunriseRedLine</item>
+
+        <item name="CBC">#ffffff</item>
+        <item name="subName">#cf1e48</item>
+        <item name="subProf">#640413</item>
+        <item name="subRoom">#303131</item>
+        <item name="subTime">#3C7CC6</item>
+        <item name="subStatusNO">#FFDF514E</item>
+        <item name="ClassOpBack">#c99a9a</item>
+
+        <item name="nav_center">@color/SPC</item>
+        <item name="nav_start">@color/SPS</item>
+        <item name="nav_end">@color/SPE</item>
+    </style>
+
+    <style name="BlueHaze" parent="AppTheme.NoActionBar">
+        <item name="colorPrimary">#293F77</item>
+        <item name="colorPrimaryDark">#233666</item>
+        <item name="colorAccent">#64403E</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="HomeBack">#030913</item>
+
+        <item name="android:colorBackground">#28324B</item>
+        <item name="NavTextColor">#c5cdfd</item>
+        <item name="android:listDivider">@color/BlueHazeLine</item>
+
+        <item name="CBC">#2d3950</item>
+        <item name="subName">#fff67b</item>
+        <item name="subProf">#978c8c</item>
+        <item name="subRoom">#efd3d3</item>
+        <item name="subTime">#b3cbe6</item>
+        <item name="subStatusNO">#e92b74</item>
+        <item name="ClassOpBack">#FF9AAAC9</item>
+
+        <item name="nav_center">@color/BPC</item>
+        <item name="nav_start">@color/BPS</item>
+        <item name="nav_end">@color/BPE</item>
+    </style>
+
+    <style name="WoodPresence" parent="AppTheme.NoActionBar">
+        <item name="colorPrimary">#7cb342</item>
+        <item name="colorPrimaryDark">#FF558B2F</item>
+        <item name="colorAccent">#00695c</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="HomeBack">#4f534b</item>
+
+        <item name="android:colorBackground">#232622</item>
+        <item name="NavTextColor">#d8fdc5</item>
+        <item name="android:listDivider">@color/WoodPresenceLine</item>
+
+        <item name="CBC">#F1F8E9</item>
+        <item name="subName">#1B5E20</item>
+        <item name="subProf">#3b730d</item>
+        <item name="subRoom">#445905</item>
+        <item name="subTime">#27b345</item>
+        <item name="subStatusNO">#e92b74</item>
+        <item name="ClassOpBack">#a4c99a</item>
+
+        <item name="nav_center">@color/WPC</item>
+        <item name="nav_start">@color/WPS</item>
+        <item name="nav_end">@color/WPE</item>
+
+    </style>
+
+    <style name="Classic" parent="AppTheme.NoActionBar">
+        <item name="colorPrimary">#39393b</item>
+        <item name="colorPrimaryDark">#292929</item>
+        <item name="colorAccent">#863d96</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="HomeBack">#f6efff</item>
+
+        <item name="android:colorBackground">#1c191d</item>
+        <item name="NavTextColor">#fac5fd</item>
+        <item name="android:listDivider">@color/ClassicLine</item>
+
+
+        <item name="CBC">#cb93d7</item>
+        <item name="subName">#ffffff</item>
+        <item name="subProf">#ffffff</item>
+        <item name="subRoom">#ffffff</item>
+        <item name="subTime">#ffffff</item>
+        <item name="subStatusNO">#ffffff</item>
+        <item name="ClassOpBack">#d8d8e9</item>
+
+        <item name="nav_center">@color/CPC</item>
+        <item name="nav_start">@color/CPS</item>
+        <item name="nav_end">@color/CPE</item>
+    </style>
+
+    <!--  <style name="SunriseRed" parent="Theme.AppCompat.Light.NoActionBar">
+          <item name="colorPrimary">#D32F2F</item>
+          <item name="colorPrimaryDark">#B71C1C</item>
+          <item name="colorAccent">#FF1744</item>
+          <item name="android:textColor">#FFFFFF</item>
+      </style>
+      <style name="SunriseRedCard" parent="Theme.AppCompat.Light.NoActionBar">
+          <item name="colorPrimary">#D32F2F</item>
+          <item name="colorPrimaryDark">#B71C1C</item>
+          <item name="colorAccent">#FF1744</item>
+          <item name="android:background">#fff0ed</item>
+      </style>
+
+      <style name="SunriseRed" parent="Theme.AppCompat.Light.NoActionBar">
+          <item name="colorPrimary">#D32F2F</item>
+          <item name="colorPrimaryDark">#B71C1C</item>
+          <item name="colorAccent">#FF1744</item>
+          <item name="android:textColor">#FFFFFF</item>
+      </style>
+      <style name="SunriseRedCard" parent="Theme.AppCompat.Light.NoActionBar">
+          <item name="colorPrimary">#D32F2F</item>
+          <item name="colorPrimaryDark">#B71C1C</item>
+          <item name="colorAccent">#FF1744</item>
+          <item name="android:background">#fff0ed</item>
+      </style>-->
+</resources>

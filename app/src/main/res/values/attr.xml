@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="CBC" format="color" />
+    <attr name="ClassOpBack" format="color" />
+    <attr name="NavTextColor" format="color" />
+    <attr name="HomeBack" format="color" />
+    <attr name="subName" format="color" />
+    <attr name="subProf" format="color" />
+    <attr name="subRoom" format="color" />
+    <attr name="subTime" format="color" />
+    <attr name="subStatusYES" format="color" />
+    <attr name="subStatusNO" format="color" />
+    <attr name="nav_center" format="color"></attr>
+    <attr name="nav_start" format="color"></attr>
+    <attr name="nav_end" format="color"></attr>
+
+
+</resources>

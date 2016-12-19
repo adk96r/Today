@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#1565c0</color>
+    <color name="colorPrimaryDark">#0d47a1</color>
+    <color name="colorAccent">#E91E63</color>
+    <color name="textcolor">#000001</color>
+
+    <color name="lightWindowBackground">#FFFAF9F9</color>
+    <color name="darkWindowBackground">#FF333439</color>
+
+
+    <color name="black_overlay">#66000000</color>
+    <color name="black">#105aa9f3</color>
+    <color name="backT">#50ffffff</color>
+
+
+    <!-- For the various Themes -->
+
+    <color name="SunriseRedLine">#FFA70725</color>
+    <color name="BlueHazeLine">#69b4ff</color>
+    <color name="WoodPresenceLine">#50e653</color>
+    <color name="ClassicLine">#752bd4</color>
+
+    <color name="WPE">#7cb342</color>
+    <color name="WPC">#FF558B2F</color>
+    <color name="WPS">#FF00695C</color>
+
+    <color name="SPS">#ce0125</color>
+    <color name="SPC">#a70725</color>
+    <color name="SPE">#79071c</color>
+
+    <color name="CPE">#b070be</color>
+    <color name="CPC">#33204d</color>
+    <color name="CPS">#090610</color>
+
+    <color name="BPE">#293F77</color>
+    <color name="BPC">#233666</color>
+    <color name="BPS">#64403E</color>
+
+
+
+</resources>
