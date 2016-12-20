@@ -44,7 +44,7 @@ The theme sets the app background, card background, navigation background, accen
 
 
 
-#### The Navigation drawer and settigns app are shown here :
+#### The Navigation drawer and settings screens are shown here :
 
 <img src="https://cloud.githubusercontent.com/assets/19271795/21352430/72f280e2-c6e7-11e6-9172-8fe9a79273ab.png" width="35%">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
