@@ -17,7 +17,7 @@ Each of the cards have the basic format as below , where the fields will be fill
 
 ![alt tag] (https://cloud.githubusercontent.com/assets/19271795/21357230/771028d8-c6fa-11e6-95b5-a22104b04f92.png)
 
-After designing all the layouts and implementing the logic in classes , the time came to personalise it.
+After designing all the layouts and implementing the logic in classes , it was time to add the themes !
 
 <br>
 <br>
